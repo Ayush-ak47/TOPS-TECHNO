@@ -93,10 +93,6 @@ LinkedIn: (Add your LinkedIn link here)
 
 ---
 
-⭐ If you found this project useful, feel free to give it a star!
-
-SOME SCREENSHOTS OF THE PROJECTS
-
 
 
 
