@@ -89,7 +89,7 @@ jupyter notebook
 ## 👨‍💻 Author
 Ayush Parashar  
 Aspiring Data Scientist / ML Engineer  
-LinkedIn: (Add your LinkedIn link here)
+LinkedIn: https://www.linkedin.com/in/ayush-parashar-ap1310/
 
 ---
 
