@@ -74,6 +74,7 @@ pip install -r requirements.txt
 4️⃣ Run the notebook:
 jupyter notebook
 
+![images alt](https://github.com/Ayush-ak47/TOPS-TECHNO/tree/a334f246bb96c5fdd5ddca7000402381af3c559e/house%20price%20project)
 
 
 ---
